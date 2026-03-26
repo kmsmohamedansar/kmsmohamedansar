@@ -4,7 +4,7 @@ Associate Solutions Engineer at **Datasembly**, Canada. I work where business qu
 
 I care about correct outputs, clear handoffs, and systems that do not fall apart after launch.
 
-**Building now:** [RepTrack](https://github.com/kmsmohamedansar/reptrack), an iOS training log (SwiftUI, SwiftData), and **NorthStar Forge**, a small studio for software and data-shaped products. Studio site: [northstar-forge.github.io](https://northstar-forge.github.io/).
+**Building now:** [RepTrack](https://github.com/kmsmohamedansar/reptrack), an iOS training log (SwiftUI, SwiftData), and **NorthStar Forge**, a small studio for software and data-shaped products. Studio site: [northstar-forge.github.io](https://northstar-forge.github.io/). RepTrack is live on the [App Store](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027).
 
 **Stack and strengths:** SQL, Snowflake, Python, Airflow, analytics operations, troubleshooting, pipeline-style thinking, and scoping work with technical and non-technical stakeholders.
 
