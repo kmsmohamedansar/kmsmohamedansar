@@ -22,6 +22,16 @@ I work where business questions meet Snowflake, SQL, and analytics delivery that
 
 *(This account doesn't have hosted screenshots yet — every link above is a real, live demo you can open directly.)*
 
+## AI-native development (Cursor + MCP)
+
+I build internal tools and agent-facing infrastructure with Cursor and the Model Context Protocol: MCP servers for IDE agents, and Chrome (MV3) side-panel extensions for retail data operations. The work itself lives in private repos, so the case studies are written up generically, and the two public repos below re-create the patterns with synthetic data.
+
+| | |
+|---|---|
+| **[Case studies](https://kmsmohamedansar.github.io/#cursor)** ↗ | MCP server for analytics context, in-scope checker and "Undercut" Chrome extensions, a Next.js health dashboard, and a category-copilot prototype, each with a flow diagram. |
+| **[mcp-analytics-stub](https://github.com/kmsmohamedansar/mcp-analytics-stub)** ↗ | Minimal TypeScript MCP server: a resolver tool and a context tool returning synthetic JSON, with schema validation and tests. |
+| **[mv3-sidepanel-starter](https://github.com/kmsmohamedansar/mv3-sidepanel-starter)** ↗ | Starter Chrome MV3 side panel: paste IDs, apply mock rules, download a CSV. Rules are a pure function, unit-tested with Node. |
+
 ## Also built
 
 Native apps and tooling that aren't part of the public showcase above — code available on request (see below):
@@ -43,7 +53,7 @@ Native apps and tooling that aren't part of the public showcase above — code a
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-SQL · Snowflake · Python · SwiftUI · SwiftData · Airflow · BigQuery · Tableau · Power BI · pandas · FAISS · Transformers · DuckDB · Xcode · App Store Connect · ETL/ELT
+SQL · Snowflake · Python · SwiftUI · SwiftData · Airflow · BigQuery · Tableau · Power BI · pandas · FAISS · Transformers · DuckDB · Xcode · App Store Connect · ETL/ELT · TypeScript · Next.js · MCP · Cursor · Chrome extensions (MV3)
 
 ## Get in touch
 
