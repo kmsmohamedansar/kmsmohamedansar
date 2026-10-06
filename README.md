@@ -1,8 +1,6 @@
-# Hello, I'm Mohamed 👋
+# Hi, I'm Mohamed
 
-**Solutions Engineer at [Datasembly](https://www.datasembly.com/)** — Canada · previously Amazon Prime Video
-
-I work where business questions meet Snowflake, SQL, and analytics delivery that has to hold up in production. Outside of that, I ship small native apps and full-stack tools end to end — problem to production, not just the data layer.
+I'm a solutions engineer at [Datasembly](https://www.datasembly.com/) in Canada, and before that I worked at Amazon Prime Video. My days are SQL and Snowflake on a big retail pricing dataset, helping teams get answers they can trust. Outside work I build things: an iOS app on the App Store, browser tools, and a growing pile of experiments with AI.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kmsmohamedansar.github.io-22d3ee?style=flat-square)](https://kmsmohamedansar.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kmsmohamedansar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kmsmohamedansar/)
@@ -10,36 +8,37 @@ I work where business questions meet Snowflake, SQL, and analytics delivery that
 
 ---
 
-## Featured work
+## Things I've built
+
+Every link below is something you can open and try. The [portfolio](https://kmsmohamedansar.github.io) has the story behind each one, with a diagram of how it works.
 
 | | |
 |---|---|
-| **[RepTrack](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027)** ↗ | iOS workout log. SwiftUI + SwiftData, local-first, no account wall. Built solo and taken through App Store review. **Live on the App Store.** |
-| **[SQL Playground](https://kmsmohamedansar.github.io/sql-playground)** ↗ | Browser-based SQL practice environment on SQLite WASM with a Snowflake-style translation layer. **Live demo.** |
-| **[High-Value Customer Predictor](https://huggingface.co/spaces/kmsmohamedansar/high-value-customer-predictor)** ↗ | Random Forest classifier with SHAP-based explainability for retention-focused customer scoring. **Live demo.** |
-| **[Grocery AI Assistant](https://huggingface.co/spaces/kmsmohamedansar/ai_knowledge_assistant)** ↗ | Fully local RAG pipeline — FAISS + Flan-T5 — for natural-language product search, no cloud APIs. **Live demo.** |
-| **[TaskMaster](https://huggingface.co/spaces/kmsmohamedansar/TaskMaster-Job-Scheduler)** ↗ | Small ML job-scheduling pipeline with retries, idempotent steps, and structured logs. **Live demo.** |
+| **[RepTrack](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027)** | A workout log for the gym floor. SwiftUI and SwiftData, local first, no account needed. I built it on my own and took it through App Store review. It's live on the App Store. |
+| **[SQL Playground](https://kmsmohamedansar.github.io/sql-playground)** | A place to practise SQL in the browser. SQLite runs as WebAssembly, with a translation layer so Snowflake style queries work. |
+| **[Smart product categorization](https://github.com/kmsmohamedansar/NLP-Project-Smart-Category)** | Which products are filed under the wrong category? A zero-shot language model scores how well a product name fits its category and flags the weak matches for review. |
+| **[High-Value Customer Predictor](https://huggingface.co/spaces/kmsmohamedansar/high-value-customer-predictor)** | A Random Forest that predicts high-value customers, with a SHAP chart that shows why. |
+| **[Grocery AI Assistant](https://huggingface.co/spaces/kmsmohamedansar/ai_knowledge_assistant)** | Ask about grocery products in plain English. FAISS and Flan-T5 do the work, all locally, with no cloud APIs. |
+| **[TaskMaster](https://huggingface.co/spaces/kmsmohamedansar/TaskMaster-Job-Scheduler)** | A small ML pipeline with retries, safe re-runs and structured logs. |
+| **[Job Scout Agent](https://github.com/kmsmohamedansar/job-scout-agent)** | A local AI agent that hunts for job postings every morning and sends me a scored shortlist. It never scrapes LinkedIn. |
 
-*(This account doesn't have hosted screenshots yet — every link above is a real, live demo you can open directly.)*
+## Building with Cursor and MCP
 
-## AI-native development (Cursor + MCP)
-
-I build internal tools and agent-facing infrastructure with Cursor and the Model Context Protocol: MCP servers for IDE agents, and Chrome (MV3) side-panel extensions for retail data operations. The work itself lives in private repos, so the case studies are written up generically, and the two public repos below re-create the patterns with synthetic data.
+A lot of my day-to-day work is internal tools and agent tooling, built with Cursor and the Model Context Protocol. That code is private, so the [case studies](https://kmsmohamedansar.github.io/) are written generically. Two small public repos show the same patterns with made-up data:
 
 | | |
 |---|---|
-| **[Case studies](https://kmsmohamedansar.github.io/#cursor)** ↗ | MCP server for analytics context, in-scope checker and "Undercut" Chrome extensions, a Next.js health dashboard, and a category-copilot prototype, each with a flow diagram. |
-| **[mcp-analytics-stub](https://github.com/kmsmohamedansar/mcp-analytics-stub)** ↗ | Minimal TypeScript MCP server: a resolver tool and a context tool returning synthetic JSON, with schema validation and tests. |
-| **[mv3-sidepanel-starter](https://github.com/kmsmohamedansar/mv3-sidepanel-starter)** ↗ | Starter Chrome MV3 side panel: paste IDs, apply mock rules, download a CSV. Rules are a pure function, unit-tested with Node. |
+| **[mcp-analytics-stub](https://github.com/kmsmohamedansar/mcp-analytics-stub)** | A minimal TypeScript MCP server with a resolver tool and a context tool, schema validation and tests. |
+| **[mv3-sidepanel-starter](https://github.com/kmsmohamedansar/mv3-sidepanel-starter)** | A starter Chrome side panel: paste IDs, apply mock rules, download a CSV. |
 
 ## Also built
 
-Native apps and tooling that aren't part of the public showcase above — code available on request (see below):
+Some other things that aren't part of the public showcase. I'm happy to show the code on request:
 
-- **Cerebra** — native macOS canvas app for sketching and thinking: infinite board, shapes, connectors, freehand strokes (SwiftUI)
-- **Forex analysis tools** — Python backtesting and sentiment analysis on AUD/USD tick data with scheduled news events
-- **F1 telemetry pipeline** — pulls live F1 session and car telemetry from the FastF1 and OpenF1 APIs
-- A calendar app, a Dagster pipeline playground, and a handful of earlier NLP/EDA projects (sentiment analysis, product categorization, news scraping, sports analytics)
+- **Cerebra**, a native macOS canvas app for sketching and thinking, with an infinite board, shapes, connectors and freehand strokes (SwiftUI).
+- **Forex analysis tools**, Python backtesting and sentiment scripts for AUD/USD.
+- **F1 telemetry**, scripts that pull F1 session and car data from the FastF1 and OpenF1 APIs.
+- A calendar app, a Dagster pipeline playground, and a few earlier NLP and analysis projects: sentiment analysis, news scraping and sports analytics.
 
 ## Stack
 
@@ -53,10 +52,10 @@ Native apps and tooling that aren't part of the public showcase above — code a
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-SQL · Snowflake · Python · SwiftUI · SwiftData · Airflow · BigQuery · Tableau · Power BI · pandas · FAISS · Transformers · DuckDB · Xcode · App Store Connect · ETL/ELT · TypeScript · Next.js · MCP · Cursor · Chrome extensions (MV3)
+SQL, Snowflake, Python, SwiftUI, SwiftData, Airflow, BigQuery, Tableau, Power BI, pandas, FAISS, Transformers, DuckDB, Xcode, App Store Connect, TypeScript, Next.js, MCP, Cursor, Chrome extensions (MV3).
 
-## Get in touch
+## Say hello
 
-Most of my project repos are private — this profile and the projects linked above are the public front door. If something here looks interesting and you'd like a closer look at the code, reach out and I'm glad to share access:
+Most of my project repos are private, so this profile and the links above are the front door. If something here looks interesting and you'd like a closer look at the code, get in touch and I'll happily share access.
 
 **[mohamedansarkms@gmail.com](mailto:mohamedansarkms@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/kmsmohamedansar/)**
