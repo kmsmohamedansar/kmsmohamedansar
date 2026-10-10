@@ -41,7 +41,7 @@ I build internal tools and agent-facing infrastructure with AI coding agents (Cl
 ## Also built
 
 - **Cerebra:** a native macOS canvas app for sketching and thinking, with an infinite board, shapes, connectors and freehand strokes (SwiftUI). Code on request.
-- **Job scout agent:** a local AI agent (OpenClaw and Ollama) that scores job postings against a rubric and sends a daily shortlist. Code on request.
+- **Local agent pipeline:** a scheduled AI agent (OpenClaw and a local Ollama model, sandboxed in Docker) that searches the open web, scores results against a rubric and sends a short report. Code on request.
 - **Forex analysis tools:** Python backtesting and sentiment analysis on AUD/USD tick data around scheduled news events.
 - **F1 telemetry pipeline:** pulls F1 session and car telemetry from the FastF1 and OpenF1 APIs.
 - **[Calendar app](https://kmsmohamedansar.github.io/Calendar-app/)**, a Dagster pipeline playground, and earlier NLP and EDA projects: sentiment analysis, product categorization, news scraping and sports analytics.
