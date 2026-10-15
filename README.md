@@ -46,14 +46,25 @@ I build internal tools and agent-facing infrastructure with AI coding agents (Cl
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftData](https://img.shields.io/badge/-SwiftData-F05138?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![three.js](https://img.shields.io/badge/-three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-
-SQL · Snowflake · Python · SwiftUI · SwiftData · TypeScript · Next.js · Airflow · BigQuery · DuckDB · Tableau · Power BI · pandas · FAISS · Transformers · three.js · Blender · MCP · Claude Code · Cursor · Chrome extensions (MV3) · Xcode · App Store Connect
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Chrome extensions (MV3)](https://img.shields.io/badge/-Chrome%20extensions%20(MV3)-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/-App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white)
 
 ## Get in touch
 
