@@ -17,10 +17,6 @@ I work where business questions meet Snowflake, SQL and analytics delivery that 
 | **[RepTrack](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027)** ↗ | iOS workout log. SwiftUI and SwiftData, local-first, no account wall. Built solo and taken through App Store review. **Live on the App Store.** |
 | **[My Take on Jev](https://ansarbuilds.dev/p/decision-models/report.html)** ↗ | Its open rivals, measured. An independent test of the new open "decision models" on support-ticket routing: 250 hand-labelled requests, one shared test harness, a held-out set scored once. A 2B decision model beat a 7B general model by 16 points, with the most honest confidence. [Code and every run](https://github.com/kmsmohamedansar/decision-models). **Technical report.** |
 | **[AI Digital Double](https://kmsmohamedansar.github.io/#digital-double)** ↗ | A 3D model of my own head, built by directing Claude Code to drive Blender from phone photos and a 13-second video. Its eyes follow your cursor. [Every step, including the failures](https://github.com/kmsmohamedansar/ai-digital-double). **Live demo.** |
-| **[SQL Playground](https://kmsmohamedansar.github.io/sql-playground)** ↗ | Browser-based SQL practice on SQLite WASM, with a translation layer for Snowflake-style SQL. **Live demo.** |
-| **[High-Value Customer Predictor](https://huggingface.co/spaces/kmsmohamedansar/high-value-customer-predictor)** ↗ | Random Forest classifier with SHAP explanations for retention-focused customer scoring. **Live demo.** |
-| **[Grocery AI Assistant](https://huggingface.co/spaces/kmsmohamedansar/ai_knowledge_assistant)** ↗ | Fully local RAG pipeline (FAISS and Flan-T5) for natural-language product search, with no cloud APIs. **Live demo.** |
-| **[TaskMaster](https://huggingface.co/spaces/kmsmohamedansar/TaskMaster-Job-Scheduler)** ↗ | Small ML job-scheduling pipeline with retries, idempotent steps and structured logs. **Live demo.** |
 
 ## In progress
 
@@ -38,14 +34,6 @@ I build internal tools and agent-facing infrastructure with AI coding agents (Cl
 | **[mcp-analytics-stub](https://github.com/kmsmohamedansar/mcp-analytics-stub)** ↗ | Minimal TypeScript MCP server: a resolver tool and a context tool returning synthetic JSON, with schema validation and tests. |
 | **[mv3-sidepanel-starter](https://github.com/kmsmohamedansar/mv3-sidepanel-starter)** ↗ | Starter Chrome MV3 side panel: paste IDs, apply mock rules, download a CSV. Rules are a pure function, unit-tested with Node. |
 | **[Experiments](https://kmsmohamedansar.github.io/#ai)** ↗ | A 3D solar system with real orbital mechanics, a terminal that answers as me, and a WebGL star field, all built with an AI pair programmer. |
-
-## Also built
-
-- **Cerebra:** a native macOS canvas app for sketching and thinking, with an infinite board, shapes, connectors and freehand strokes (SwiftUI). Code on request.
-- **Local agent pipeline:** a scheduled AI agent (OpenClaw and a local Ollama model, sandboxed in Docker) that searches the open web, scores results against a rubric and sends a short report. Code on request.
-- **Forex analysis tools:** Python backtesting and sentiment analysis on AUD/USD tick data around scheduled news events.
-- **F1 telemetry pipeline:** pulls F1 session and car telemetry from the FastF1 and OpenF1 APIs.
-- **[Calendar app](https://kmsmohamedansar.github.io/Calendar-app/)**, a Dagster pipeline playground, and earlier NLP and EDA projects: sentiment analysis, product categorization, news scraping and sports analytics.
 
 ## Stack
 
