@@ -10,6 +10,13 @@ I work where business questions meet Snowflake, SQL and analytics delivery that 
 
 ---
 
+## What I build
+
+I build practical tools that make messy data, business processes, and AI systems easier to understand and trust. The projects below show how I define problems, design workflows, test failure cases, and turn ideas into working results.
+
+> Some projects are generalized or recreated with synthetic data to respect employer and client confidentiality. AI coding tools may accelerate implementation; I remain responsible for the problem definition, architecture, testing, review, and final decisions.
+
+
 ## Featured work
 
 | | |
