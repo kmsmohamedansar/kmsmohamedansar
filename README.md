@@ -27,7 +27,7 @@ I build production data systems, developer tools, and small products end to end.
 | **[RepTrack](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027)** | A local-first iOS workout log built with SwiftUI and SwiftData. No account wall; built solo and taken through App Store review. **Live on the App Store.** |
 | **[Haloscript](https://apps.apple.com/ca/app/haloscript/id6820670080)** | A Mac, iPad, and iPhone writing app that places an infinite whiteboard beside the manuscript, with corkboard planning, a Story Bible, and iCloud sync. **Live on the App Store.** [Support and privacy](https://ansarbuilds.dev/haloscript-site/). |
 | **[AI Digital Double](https://github.com/kmsmohamedansar/ai-digital-double)** | A 3D model of my head built from phone photos and a short video by directing an AI coding agent to drive Blender. Includes the live result and the full build history, failures included. |
-| **[Sitescout](https://github.com/kmsmohamedansar/sitescout)** | A React and TypeScript Chrome side-panel extension that turns Yahoo Finance pages into structured cards and a downloadable CSV. |
+| **[Sitescout](https://github.com/kmsmohamedansar/sitescout)** | A React and TypeScript Chrome side-panel extension designed to turn Yahoo Finance pages into cards and a downloadable CSV. Automated browser tests use synthetic pages. |
 
 ## Data systems and evaluations
 
