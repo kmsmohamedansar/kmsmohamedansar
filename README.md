@@ -1,36 +1,82 @@
-# Hello, I'm Ansar 👋
+<a href="https://ansarbuilds.dev">
+  <img src="./assets/hero.svg" width="100%" alt="Hi, I'm Ansar. Solutions Engineer building reliable data systems, evidence-backed AI tools, and small products from idea to release." />
+</a>
+
+<p align="center">
+  <a href="https://ansarbuilds.dev"><img src="https://img.shields.io/badge/Portfolio-ansarbuilds.dev-818cf8?style=for-the-badge&labelColor=0d1330" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kmsmohamedansar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1330" alt="LinkedIn" /></a>
+  <a href="mailto:mohamedansarkms@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-f472b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1330" alt="Email" /></a>
+</p>
 
 **Solutions Engineer at [Datasembly](https://www.datasembly.com/)**, based in Canada. Previously at Amazon Prime Video.
 
-I build reliable data systems, evidence-backed AI tools, and small products from idea to release. I like turning ambiguous questions into working systems, testing the results, and documenting what I learned.
+I like turning ambiguous questions into working systems — then testing the results and writing down what I learned.
 
-[Portfolio](https://ansarbuilds.dev) · [LinkedIn](https://www.linkedin.com/in/kmsmohamedansar/) · [Email](mailto:mohamedansarkms@gmail.com)
+## 🧭 Start here
 
-## Start here
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛩️ <a href="https://github.com/kmsmohamedansar/agent-flight-recorder">Agent Flight Recorder</a></h3>
+      A local recorder for AI-agent tool calls and file changes, with replay and evidence-backed failure investigation.<br/><br/>
+      <a href="https://pypi.org/project/flightrecorder-ai/"><img src="https://img.shields.io/pypi/v/flightrecorder-ai?label=pypi%20%C2%B7%20flightrecorder-ai&color=818cf8&labelColor=0d1330" alt="PyPI" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/kmsmohamedansar/storyera">StoryEra</a></h3>
+      A reusable agent skill that audits novel continuity, cites the evidence, and suggests repairs without editing the manuscript.<br/><br/>
+      <code>agent skill</code> <code>evaluation</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 <a href="https://github.com/kmsmohamedansar/rea-study">REA Study</a></h3>
+      An independent evaluation of a tool for inspecting programs without source code, with raw results and a claims ledger.<br/><br/>
+      <code>research</code> <code>reverse engineering</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 <a href="https://github.com/kmsmohamedansar/integration-in-a-box">Integration-in-a-box</a></h3>
+      A synthetic two-company integration with real authentication, signed webhooks, and ten deliberate failures with runbooks.<br/><br/>
+      <code>auth</code> <code>webhooks</code> <code>runbooks</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚚 <a href="https://github.com/kmsmohamedansar/data-delivery">Data Delivery</a></h3>
+      A tested pipeline that turns messy weekly files into a clean table and blocks delivery when checks fail.<br/><br/>
+      <code>data quality</code> <code>pipelines</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗿 <a href="https://github.com/kmsmohamedansar/ai-digital-double">AI Digital Double</a></h3>
+      A 3D model of my head made from phone imagery, with the process and failures documented.<br/><br/>
+      <code>3D</code> <code>photogrammetry</code> <code>Blender</code>
+    </td>
+  </tr>
+</table>
 
-| Project | What it shows |
+## 📱 Shipped on the App Store
+
+- ✍️ **[Haloscript](https://apps.apple.com/ca/app/haloscript/id6820670080)** — a writing app for Mac, iPad, and iPhone.
+- 🏋️ **[RepTrack](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027)** — a local-first workout log.
+
+**More work:** [Site Recon](https://github.com/kmsmohamedansar/site-recon) · [Authorized Web Exposure Audit](https://github.com/kmsmohamedansar/authorized-web-exposure-audit) · [Decision Models](https://github.com/kmsmohamedansar/decision-models) · [Sitescout](https://github.com/kmsmohamedansar/sitescout) · [full portfolio →](https://ansarbuilds.dev/#work)
+
+## 🛠️ Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,postgres,docker,swift,ts,react,nextjs,sqlite,blender&theme=dark" alt="Python, SQL, Docker, Swift, TypeScript, React, Next.js, SQLite, Blender" />
+</p>
+
+| Area | Stack |
 |---|---|
-| **[Agent Flight Recorder](https://github.com/kmsmohamedansar/agent-flight-recorder)** | A local recorder for AI-agent tool calls and file changes, with replay and evidence-backed failure investigation. Published as [flightrecorder-ai](https://pypi.org/project/flightrecorder-ai/). |
-| **[StoryEra](https://github.com/kmsmohamedansar/storyera)** | A reusable agent skill that audits novel continuity, cites the evidence, and suggests repairs without editing the manuscript. |
-| **[REA Study](https://github.com/kmsmohamedansar/rea-study)** | An independent evaluation of a tool for inspecting programs without source code, with raw results and a claims ledger. |
-| **[Integration-in-a-box](https://github.com/kmsmohamedansar/integration-in-a-box)** | A synthetic two-company integration with real authentication, signed webhooks, and ten deliberate failures with runbooks. |
-| **[Data Delivery](https://github.com/kmsmohamedansar/data-delivery)** | A tested pipeline that turns messy weekly files into a clean table and blocks delivery when checks fail. |
-| **[AI Digital Double](https://github.com/kmsmohamedansar/ai-digital-double)** | A 3D model of my head made from phone imagery, with the process and failures documented. |
+| **Data** | SQL · Snowflake · Python · DuckDB · dbt · Dagster · Airflow · BigQuery · Tableau · Power BI |
+| **Building** | SwiftUI · SwiftData · TypeScript · React · Next.js · SQLite · Docker · Playwright · Blender |
+| **AI** | Model Context Protocol · agent skills · Claude Code · Codex · Cursor |
 
-## Products and more work
-
-[Haloscript](https://apps.apple.com/ca/app/haloscript/id6820670080), a writing app for Mac, iPad, and iPhone, and [RepTrack](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027), a local-first workout log, are live on the App Store.
-
-Explore [Site Recon](https://github.com/kmsmohamedansar/site-recon), [Authorized Web Exposure Audit](https://github.com/kmsmohamedansar/authorized-web-exposure-audit), [Decision Models](https://github.com/kmsmohamedansar/decision-models), [Sitescout](https://github.com/kmsmohamedansar/sitescout), and the [full portfolio](https://ansarbuilds.dev/#work).
-
-## Tools I use
-
-**Data:** SQL, Snowflake, Python, DuckDB, dbt, Dagster, Airflow, BigQuery, Tableau, Power BI.
-
-**Building:** SwiftUI, SwiftData, TypeScript, React, Next.js, SQLite, Docker, Playwright, Blender.
-
-**AI:** Model Context Protocol, agent skills, Claude Code, Codex, Cursor.
-
+> [!NOTE]
 > Some projects use synthetic data to respect employer and client confidentiality. AI coding tools can accelerate implementation; I remain responsible for problem definition, architecture, testing, review, and final decisions.
 
-If a project interests you, [get in touch](mailto:mohamedansarkms@gmail.com).
+<p align="center">
+  If a project interests you, <a href="mailto:mohamedansarkms@gmail.com"><b>get in touch</b></a> ✦
+</p>
+
+<!-- The banner is generated by assets/generate_banner.py -->
